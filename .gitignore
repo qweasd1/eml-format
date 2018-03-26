@@ -34,3 +34,6 @@ node_modules
 
 # Additional resource files
 .docs
+
+# idea project file
+.idea
